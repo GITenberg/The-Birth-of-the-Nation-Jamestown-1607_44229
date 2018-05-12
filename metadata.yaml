@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '42304'
     url: http://www.gutenberg.org/2009/agents/42304
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44229#The-Birth-of-the-Nation-Jamestown-1607
 gutenberg_issued: '2013-11-18'
 gutenberg_type: Text
 identifiers:
